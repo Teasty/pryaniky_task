@@ -1,0 +1,16 @@
+PODS:
+  - AUPickerCell (1.0.2.0)
+
+DEPENDENCIES:
+  - AUPickerCell
+
+SPEC REPOS:
+  trunk:
+    - AUPickerCell
+
+SPEC CHECKSUMS:
+  AUPickerCell: b6f788d62f449014204776ff6fdc841aebbc352f
+
+PODFILE CHECKSUM: 31e738e81884884581e5f954c4ef305cd92c9b09
+
+COCOAPODS: 1.9.3

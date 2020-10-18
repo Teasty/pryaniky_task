@@ -1,0 +1,6 @@
+framework module Pods_pryaniky_task {
+  umbrella header "Pods-pryaniky_task-umbrella.h"
+
+  export *
+  module * { export * }
+}
